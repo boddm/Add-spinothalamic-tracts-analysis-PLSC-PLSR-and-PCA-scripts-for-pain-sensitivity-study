@@ -138,8 +138,8 @@ Please cite our paper when using these tools:
 
 ## License & Contact
 
-[License information to be added]
+MIT License
 
-For questions: [contact information]
+For questions: boddm123@gmail.com
 
 **Last Updated**: January 2026
